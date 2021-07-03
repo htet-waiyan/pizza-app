@@ -1,0 +1,16 @@
+.profile-thumbnail {
+    color: #ddd;
+}
+
+.profile-thumbnail.self {
+    line-height: 4.5;
+    width: 70px;
+    height: 70px;
+}
+
+.profile-thumbnail.other {
+    line-height: 4;
+    width: 50px;
+    height: 50px;
+    font-size: 13px;
+}
